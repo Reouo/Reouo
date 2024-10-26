@@ -1,4 +1,4 @@
 # I’m @Reouo  
 ***
 I’m interested in *galgame*  
-I’m currently learning *c++&python*  
+I’m learning *c++&python*
